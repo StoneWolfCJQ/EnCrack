@@ -1,0 +1,14 @@
+c:\users\cw0238\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Acrobat.exe.config
+c:\users\cw0238\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Acrobat.exe
+c:\users\cw0238\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Acrobat.pdb
+c:\users\cw0238\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Acrobat.exe
+c:\users\cw0238\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Acrobat.pdb
+D:\Stone\05-程序\EnCrack\EnCrack\bin\Debug\Acrobat.exe.config
+D:\Stone\05-程序\EnCrack\EnCrack\bin\Debug\Acrobat.exe
+D:\Stone\05-程序\EnCrack\EnCrack\bin\Debug\Acrobat.pdb
+D:\Stone\05-程序\EnCrack\EnCrack\obj\Debug\EnCrack.csprojResolveAssemblyReference.cache
+D:\Stone\05-程序\EnCrack\EnCrack\obj\Debug\Acrobat.exe
+D:\Stone\05-程序\EnCrack\EnCrack\obj\Debug\Acrobat.pdb
+D:\Stone\05-程序\EnCrack\Bin\Acrobat.exe.config
+D:\Stone\05-程序\EnCrack\Bin\Acrobat.exe
+D:\Stone\05-程序\EnCrack\Bin\Acrobat.pdb

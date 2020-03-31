@@ -1,0 +1,6 @@
+D:\Stone\05-程序\EnCrack\Bin\Acrobat.exe.config
+D:\Stone\05-程序\EnCrack\Bin\Acrobat.exe
+D:\Stone\05-程序\EnCrack\Bin\Acrobat.pdb
+D:\Stone\05-程序\EnCrack\EnCrack\obj\Release\Acrobat.exe
+D:\Stone\05-程序\EnCrack\EnCrack\obj\Release\Acrobat.pdb
+D:\Stone\05-程序\EnCrack\EnCrack\obj\Release\EnCrack.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Stone\05-程序\EnCrack\Bin\CrackRenamer.exe.config
+D:\Stone\05-程序\EnCrack\Bin\CrackRenamer.exe
+D:\Stone\05-程序\EnCrack\Bin\CrackRenamer.pdb
+D:\Stone\05-程序\EnCrack\CrackRenamer\obj\Debug\CrackRenamer.csprojResolveAssemblyReference.cache
+D:\Stone\05-程序\EnCrack\CrackRenamer\obj\Debug\CrackRenamer.exe
+D:\Stone\05-程序\EnCrack\CrackRenamer\obj\Debug\CrackRenamer.pdb
