@@ -4,3 +4,10 @@ D:\Stone\05-程序\EnCrack\Bin\CrackRenamer.pdb
 D:\Stone\05-程序\EnCrack\CrackRenamer\obj\Release\CrackRenamer.exe
 D:\Stone\05-程序\EnCrack\CrackRenamer\obj\Release\CrackRenamer.pdb
 D:\Stone\05-程序\EnCrack\CrackRenamer\obj\Release\CrackRenamer.csprojResolveAssemblyReference.cache
+D:\Stone Wolf\Work\德龙\07-程序\EnCrack\Bin\CrackRenamer.exe.config
+D:\Stone Wolf\Work\德龙\07-程序\EnCrack\Bin\CrackRenamer.exe
+D:\Stone Wolf\Work\德龙\07-程序\EnCrack\Bin\CrackRenamer.pdb
+D:\Stone Wolf\Work\德龙\07-程序\EnCrack\CrackRenamer\obj\Release\CrackRenamer.csprojAssemblyReference.cache
+D:\Stone Wolf\Work\德龙\07-程序\EnCrack\CrackRenamer\obj\Release\CrackRenamer.csproj.CoreCompileInputs.cache
+D:\Stone Wolf\Work\德龙\07-程序\EnCrack\CrackRenamer\obj\Release\CrackRenamer.exe
+D:\Stone Wolf\Work\德龙\07-程序\EnCrack\CrackRenamer\obj\Release\CrackRenamer.pdb
