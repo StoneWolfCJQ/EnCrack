@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Diagnostics;
+using System.Text.RegularExpressions;
 
 namespace EnCrack
 {
@@ -14,23 +15,36 @@ namespace EnCrack
     {
         static void Main(string[] args)
         {
+            string[] ss = new string[1];
             while (true)
             {
+                bool bf = false;
                 try
                 {
-                    Crack();
+                    ss = SplitFileNames();
                 }
-                catch(Exception e)
+                catch (Exception e)
                 {
                     Console.WriteLine(e.Message);
+                    continue;
+                }                    
+
+                foreach (var s in ss)
+                {
+                    try
+                    {
+                        Crack(s);
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine(s + ": " + e.Message);
+                    }
                 }
             }
         }
 
-        static void Crack()
+        static void Crack(string inFileName)
         {
-            string inFileName;
-            inFileName = Console.ReadLine().Trim('\"');
             byte[] fb = File.ReadAllBytes(inFileName);
             string outFileName = Path.GetDirectoryName(inFileName) + 
                 '\\'+Path.GetFileNameWithoutExtension(inFileName);
@@ -43,6 +57,21 @@ namespace EnCrack
                 + '\"' + outFileName + "-Copy" + Path.GetExtension(inFileName) + '\"';
 
             Process.Start(ps).WaitForExit();
+            Console.WriteLine(inFileName + "   OK");
+        }
+
+        static string[] SplitFileNames()
+        {
+            string inFileNames;
+            inFileNames = Console.ReadLine();
+            var matches = Regex.Matches(inFileNames, @"(?<="")[^""]+");
+            List<string> ss = new List<string>();
+            foreach (Match m in matches)
+            {
+                if (!string.IsNullOrWhiteSpace(m.Value))
+                    ss.Add(m.Value);
+            }
+            return ss.ToArray();
         }
     }
 }
