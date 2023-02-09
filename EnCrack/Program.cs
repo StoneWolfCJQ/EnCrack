@@ -63,13 +63,13 @@ namespace EnCrack
         static string[] SplitFileNames()
         {
             string inFileNames;
-            inFileNames = Console.ReadLine();
-            var matches = Regex.Matches(inFileNames, @"(?<="")[^""]+");
+            inFileNames = Console.ReadLine().Replace("\"","");
+            var matches = Regex.Matches(inFileNames, @"[A-Z]:\\[^:]+(?=([A-Z]:)|$)");
             List<string> ss = new List<string>();
             foreach (Match m in matches)
             {
                 if (!string.IsNullOrWhiteSpace(m.Value))
-                    ss.Add(m.Value);
+                    ss.Add(m.Value.Trim());
             }
             return ss.ToArray();
         }

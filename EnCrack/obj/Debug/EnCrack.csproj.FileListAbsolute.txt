@@ -12,3 +12,11 @@ D:\Stone\05-程序\EnCrack\EnCrack\obj\Debug\Acrobat.pdb
 D:\Stone\05-程序\EnCrack\Bin\Acrobat.exe.config
 D:\Stone\05-程序\EnCrack\Bin\Acrobat.exe
 D:\Stone\05-程序\EnCrack\Bin\Acrobat.pdb
+D:\Stone Wolf\Work\公司\科韵\程序\EnCrack\Bin\Acrobat.exe.config
+D:\Stone Wolf\Work\公司\科韵\程序\EnCrack\Bin\Acrobat.exe
+D:\Stone Wolf\Work\公司\科韵\程序\EnCrack\Bin\Acrobat.pdb
+D:\Stone Wolf\Work\公司\科韵\程序\EnCrack\EnCrack\obj\Debug\EnCrack.csproj.AssemblyReference.cache
+D:\Stone Wolf\Work\公司\科韵\程序\EnCrack\EnCrack\obj\Debug\EnCrack.csproj.SuggestedBindingRedirects.cache
+D:\Stone Wolf\Work\公司\科韵\程序\EnCrack\EnCrack\obj\Debug\EnCrack.csproj.CoreCompileInputs.cache
+D:\Stone Wolf\Work\公司\科韵\程序\EnCrack\EnCrack\obj\Debug\Acrobat.exe
+D:\Stone Wolf\Work\公司\科韵\程序\EnCrack\EnCrack\obj\Debug\Acrobat.pdb
